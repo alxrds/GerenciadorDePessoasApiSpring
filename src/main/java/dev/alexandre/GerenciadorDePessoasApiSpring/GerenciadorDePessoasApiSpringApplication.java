@@ -1,13 +1,13 @@
-package dev.alexandre.GerenciadorDePessoasApiSpring;
+package dev.alexandre.gerenciadordepessoasapispring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GerenciadorDePessoasApiSpringApplication {
+public class GerenciadordepessoasapispringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GerenciadorDePessoasApiSpringApplication.class, args);
+		SpringApplication.run(GerenciadordepessoasapispringApplication.class, args);
 	}
 
 }
