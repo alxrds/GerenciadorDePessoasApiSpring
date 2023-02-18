@@ -1,4 +1,4 @@
-package dev.alexandre.GerenciadorDePessoasApiSpring.enums;
+package dev.alexandre.personapi.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -6,7 +6,8 @@ import lombok.Getter;
 @Getter
 @AllArgsConstructor
 public enum PhoneType {
-    Home("Home"),
+
+    HOME("Home"),
     MOBILE("Mobile"),
     COMMERCIAL("Commercial");
 

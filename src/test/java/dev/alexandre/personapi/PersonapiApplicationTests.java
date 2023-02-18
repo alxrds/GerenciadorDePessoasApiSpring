@@ -1,10 +1,10 @@
-package dev.alexandre.gerenciadordepessoasapispring;
+package dev.alexandre.personapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GerenciadordepessoasapispringApplicationTests {
+class PersonapiApplicationTests {
 
 	@Test
 	void contextLoads() {
